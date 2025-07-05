@@ -17,8 +17,7 @@ WORKDIR /site
 COPY ./hugosite /site
 
 # Hugo-Build ausführen
-#RUN hugo --minify
-RUN hugo
+RUN hugo --minify
 
 # Leichtgewichtiger Webserver zum Ausliefern
 RUN apk add --no-cache busybox-extras
