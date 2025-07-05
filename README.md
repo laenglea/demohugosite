@@ -1,3 +1,3 @@
 # Demo Hugo Site 
   
-  Site to test deployment via Github Container via Gitlab actions
+Hugo democontainer to test deployment via Github Container and Gitlab actions
