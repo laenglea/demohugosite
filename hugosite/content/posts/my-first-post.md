@@ -4,3 +4,4 @@ draft = false
 title = 'My First Post'
 +++
 Soooodala
+demo image rules
